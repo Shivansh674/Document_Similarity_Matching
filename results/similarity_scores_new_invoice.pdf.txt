@@ -1,0 +1,2 @@
+Most similar invoice: C:\Users\HP\document_similarity_matching\data/existing_invoices/invoice4.pdf
+Similarity score: 0.8763783025397086

@@ -1,0 +1,5 @@
+tika
+PyPDF2
+numpy
+scikit-learn
+opencv-python
